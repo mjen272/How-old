@@ -3,18 +3,19 @@
   }
   
   h1 {
-    font-size: 150px;
+    font-size: 180px;
   }
   
   .dropZone {
     margin-top: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-top: 5px;
-    padding-bottom: 0px;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 25px;
+    padding-bottom: 15px;
     height: 51vh;
-    background-color: #202125;
+    background-color: #6b6e7c;
     border-radius: 20px;
+    border: 2px solid rgb(73, 69, 69);
     color: white;
   }
   
@@ -26,8 +27,9 @@
   .dank {
     display:flex;
     justify-content:center;
-    color: white;
-    font-size: 20px;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+    font-size: 24px;
   }
   
   .dropZoneText {
